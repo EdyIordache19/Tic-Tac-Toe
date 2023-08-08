@@ -2,6 +2,7 @@ A simple **Tic-Tac-Toe** game, made with React and CSS
 
 # Demo Pics
 ![demo pic](https://github.com/EdyIordache19/Tic-Tac-Toe/blob/master/App%20Screenshots/demo%20pic.png)
+![demo pic2](https://github.com/EdyIordache19/Tic-Tac-Toe/blob/master/App%20Screenshots/demo%20pic2.png)
 
 # Live Demo
 [https://edyiordache19.github.io/Tic-Tac-Toe/](https://edyiordache19.github.io/Tic-Tac-Toe/)
