@@ -31,8 +31,8 @@ function Board() {
         console.log("Next player is " + (xIsNext ? "X" : "O"));
     }
 
-    if (winner === "X") scoreX++;
-    if (winner === "O") scoreO++;
+    if (winner === "X") scoreX+=2;
+    if (winner === "O") scoreO+=2;
 
     function resetBoard() {
         setBoard(Array(9).fill(null));
